@@ -20,7 +20,7 @@ public class VentaApplication implements ApplicationRunner {
 
     @Override
     public void run(ApplicationArguments args) throws Exception {
-        logger.log(Level.INFO,"TESTEANDO ANDO.....");
+
     }
 
 }
